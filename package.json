@@ -1,0 +1,12 @@
+{
+  "name": "npm-templates",
+  "version": "1.0.0",
+  "description": "Custom templates for JS/TS projects",
+  "type": "module",
+  "main": "index.js",
+  "author": "@Fezzzi",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
